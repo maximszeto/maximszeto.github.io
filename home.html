@@ -13,19 +13,24 @@
         }
         
         .logo {
-            font-size: 20px;
+            font-size: 25px;
+            color: white;
+            text-decoration: none;
+        }
+
+        .logo:hover {
+            color: #555
+
         }
 
         .btn {
-            display: inline-block;
             color: white;
             padding: 10px 14px;
             text-decoration: none;
-            border-radius: 6px;
         }
 
         .btn:hover {
-            background: #555;
+            color: #555;
         }
 
         .nav-buttons{
@@ -48,10 +53,9 @@
     </head>
     <body>
         <header class="site-header">
-            <h1 class="logo">maxim's website</h1>
+            <h1> <a class="logo" href="#home"> maxim's website</a></h1>
 
             <nav class="nav-buttons">
-                <a class="btn" href="#home">home</a>
                 <a class="btn" href="/">projects</a>
                 <a class="btn" href="/">blog</a>
                 <a class="btn" href="/">about</a>
