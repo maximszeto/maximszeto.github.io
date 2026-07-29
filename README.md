@@ -1,1 +1,1 @@
-maxim's first webstie
+[maxim's first website](maximszeto.github.io)
