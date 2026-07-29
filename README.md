@@ -1,1 +1,1 @@
-[maxim's first website](maximszeto.github.io)
+[maxim's website]([maximszeto.github.io](https://maximszeto.github.io/))
