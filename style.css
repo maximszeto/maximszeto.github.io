@@ -38,3 +38,13 @@ body {
     justify-content: space-between;
     align-items: center;
 }
+
+.media {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+#home {
+    margin-left: 100px;
+}
