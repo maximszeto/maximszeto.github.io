@@ -50,3 +50,9 @@ body {
 #home {
     margin-left: 100px;
 }
+
+
+#container {
+    width: 70%;
+    margin: auto;
+}
