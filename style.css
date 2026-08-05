@@ -62,4 +62,5 @@ html, body {
 .image {
     width: 350px;
     margin-left: 50px;
+    alt: "personal image";
 }
