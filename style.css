@@ -68,3 +68,7 @@ html, body {
 #message {
     height: auto;
 }
+
+footer {
+    margin-top: 50px;
+}
