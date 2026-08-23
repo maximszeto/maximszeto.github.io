@@ -59,7 +59,7 @@ html, body {
     margin: 0 auto;
 }
 
-.image {
+.home-image {
     width: 350px;
     margin-left: 50px;
     alt: "personal image";
@@ -71,4 +71,17 @@ html, body {
 
 footer {
     margin-top: 50px;
+}
+
+.project {
+    border: 1px solid white;
+    padding: 10px;
+    
+    align-items: center;
+    justify-content: center;
+
+}
+
+.project-images {
+    max-width: 500px;
 }
