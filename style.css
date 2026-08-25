@@ -85,3 +85,8 @@ footer {
 .project-images {
     max-width: 500px;
 }
+
+.project-paragraphs {
+    padding-left: 50px;
+    padding-right: 50px;
+}
