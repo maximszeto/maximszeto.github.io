@@ -74,10 +74,10 @@ footer {
     text-align: center;
 }
 
-.project {
+.center-vertical {
     border: 1px solid white;
     padding: 10px;
-    
+    text-align: center;
     align-items: center;
     justify-content: center;
 
