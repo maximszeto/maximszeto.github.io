@@ -77,6 +77,7 @@ footer {
 .center-vertical {
     border: 1px solid white;
     padding: 10px;
+    margin: 20px;
     text-align: center;
     align-items: center;
     justify-content: center;
